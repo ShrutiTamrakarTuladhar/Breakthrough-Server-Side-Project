@@ -10,12 +10,12 @@ Vaccine Matcher is a third party app that connects people who want to get vaccin
 
 <p>
   <p>Draft:</p>
-  <img src = https://github.com/ShrutiTamrakarTuladhar/Breakthrough-Server-Side-Project/blob/main/diagrams/idea_diagram.png width="400" >
+  <img src = https://github.com/ShrutiTamrakarTuladhar/Breakthrough-Server-Side-Project/blob/main/diagrams/idea_diagram.png width="600" >
 </p>
 
 <p>
   <p>ERD:</p>
-  <img src = https://github.com/ShrutiTamrakarTuladhar/Breakthrough-Server-Side-Project/blob/main/diagrams/ERD-DIAGRAM.png width="400">
+  <img src = https://github.com/ShrutiTamrakarTuladhar/Breakthrough-Server-Side-Project/blob/main/diagrams/ERD-DIAGRAM.png width="600">
 </p>
 
 
