@@ -2,23 +2,29 @@
 
 You will be task with building an Express API to be consumed by a Front-end client.
 
-## Project Discription
+## Project Discription: 
 
-- Vaccine Matcher is a third party app that connects people who want to get vaccinated with sites distributing the COVID-19 vaccine.
+Vaccine Matcher is a third party app that connects people who want to get vaccinated with sites distributing the COVID-19 vaccine.
 
-- [x] **Step 1. Plan Out Your Project Schema**
+- [X] **Project Schema**
 
-- Draft:
+<p>
+  <p>Draft:</p>
   <img src = https://github.com/ShrutiTamrakarTuladhar/Breakthrough-Server-Side-Project/blob/main/diagrams/idea_diagram.png width="400" >
+</p>
 
-- ERD:
+<p>
+  <p>ERD:</p>
   <img src = https://github.com/ShrutiTamrakarTuladhar/Breakthrough-Server-Side-Project/blob/main/diagrams/ERD-DIAGRAM.png width="400">
-- [x] **Step 2. Build Out the Back-end**
+</p>
+
+
+ 
+- [x] **Back-end**
 
 - Build RESTful API routes that return data in a JSON format
-- Only 1 model needs to have full CRUD
-- Code must be encapsulated into classes
-- Use POSTMAN to test your routes
+- Encapsulated into classes
+
 - Steps Taken:
 
   - Create database migratations
@@ -39,6 +45,7 @@ You will be task with building an Express API to be consumed by a Front-end clie
     - Add test data to tables
     - Create seed files and run seed
     - node_modules/.bin/knex seed
+    
   - To setup enviroment:
     - install dot-env
     - create a .env file
@@ -46,11 +53,9 @@ You will be task with building an Express API to be consumed by a Front-end clie
     - DATABASE = ''
     - PASSWORD = ''
 
-- [ ] **Step 3. Build Out the Front-end (UI of your choice)**
-
-  - Express Views
+- [x] **Front-end**
   - React
 
-- [ ] **Step 4. Stretch features**
+- [ ] **Stretch features**
   - Registration and Authentication
-  - Insurance table; users - insurance (one to many)
+  - Insurance table
